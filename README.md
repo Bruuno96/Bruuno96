@@ -1,20 +1,8 @@
-<h3 title="hehehe"> Hey 👋, I'm Jaskirat!</h3>
+<h3 title="hehehe"> Olá, eu sou Bruno, novo amante do JAVA <3 !</h3>
 
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
+<a href=" www.linkedin.com/in/brunoermacora">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/jaskirat.mokha/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100009175092863">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/jas_script">
-  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
-
-
-
 
 <br />
 <br />
@@ -49,5 +37,5 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jas-Script&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
-<img align="center" src="https://github.com/Bruuno96" alt="Jas-Script" />
+<img align="center" src="https://github.com/Bruuno96" alt="Java-Script" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
