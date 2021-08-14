@@ -1,7 +1,7 @@
 <h3 title="hehehe"> Olá, eu sou Bruno, novo amante do JAVA <3 !</h3>
 
 <a href=" www.linkedin.com/in/brunoermacora">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Bruno Martin - LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br />
