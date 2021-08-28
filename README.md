@@ -10,7 +10,6 @@
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 
 **About Me!**
 
