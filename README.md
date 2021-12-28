@@ -13,7 +13,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 Graduando em análise e desenvolvimento de sistemas - FIAP - 
+- 👨🏽‍💻 Graduado em análise e desenvolvimento de sistemas - FIAP - 
 - 🌱 Atualmente estou me dedicando ao JAVA tanto desktop quanto WEB.
 - ❤️ Aprendendo atualmente: Spring boot, Cloud computing, Compliance & Quality Assurance, React native e PL/SQL.
 - 💬 i love develop new projects and know other languages.
